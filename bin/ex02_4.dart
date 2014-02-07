@@ -3,5 +3,4 @@ void main() {
   var metre = 100;
   var vitesse = metre / seconde;
   print ("vitesse = metre / seconde : $vitesse");
-
 }
